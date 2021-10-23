@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @mosesimbahale
 - 👀 I’m interested in :
-- Aroid app development
+- Mobile development
 - Web developmwnt
 - Data science
-- 🌱 I’m currently learning kotlin, React, 
-- 💞️ I’m looking to collaborate on android app development
+- Android
+- 🌱 I’m currently learning Advanced S.E 
+- 💞️ I’m looking to collaborate ML, Mobile and Web Development.
 -  How to reach me 
 - 📫 mosesimbahale@yahoo.com
 - 📫  moses.m.imbahale@gmail.com
