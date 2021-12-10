@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on ML models for bidding sys.
 - 🌱 I’m currently learning lots of new stuffs.
-- 👯 I’m looking to collaborate on auction management systems.
+- 👯 I’m looking to collaborate on bid management systems.
 - 🤔 I’m looking for help with ASP .NET
 - 💬 Ask me anything about software development 
 - 📫 How to reach me: mosesimbahale.developer@gmail.com
