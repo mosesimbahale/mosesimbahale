@@ -1,1 +1,1 @@
-**Hey there..👋🏿 I'm Moses Imbahale, Software Engineer based in Nairobi, Kenya.** 
+**Hi..👋🏿 I'm Moses Imbahale, Software Engineer based in Nairobi, Kenya.** 
