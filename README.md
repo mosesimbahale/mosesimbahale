@@ -1,1 +1,1 @@
-**Hey..👋🏿 I'm Moses, Software Engineer based in Nairobi, Kenya.** 
+**Hey..👋🏿 I am a Software Engineer based in Nairobi, Kenya.** 
